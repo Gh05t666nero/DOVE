@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ## Usage
 To use DOVE, execute the **dove.py** file and provide the following arguments:
 ```
-python my_script.py -u <login_url> -u1 <username1> -p1 <password1> -u2 <username2> -p2 <password2> -r <max_redirects> -t <max_timeout>
+python dove.py -u <login_url> -u1 <username1> -p1 <password1> -u2 <username2> -p2 <password2> -r <max_redirects> -t <max_timeout>
 ```
 | Argument      | Description                                                         |
 |---------------|---------------------------------------------------------------------|
